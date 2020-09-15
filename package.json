@@ -1,0 +1,25 @@
+{
+  "name": "challenge-bravo",
+  "version": "1.0.0",
+  "description": "Back-end challenge for hurb hiring process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunovitorprado/challenge-bravo.git"
+  },
+  "keywords": [
+    "challenge",
+    "hurb",
+    "bravo",
+    "node.js"
+  ],
+  "author": "Bruno Prado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunovitorprado/challenge-bravo/issues"
+  },
+  "homepage": "https://github.com/brunovitorprado/challenge-bravo#readme"
+}
